@@ -23,5 +23,13 @@
 
 
         #endregion
+
+
+        #region Class And Objects
+        // nothing it was just a simple class make and then from that class create two objects
+        // and assign object properties to value aand show it
+        #endregion
+
+
     }
 }
